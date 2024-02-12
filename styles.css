@@ -1,11 +1,62 @@
 body {
     background-color:darkslategray;
     font-family: "Audiowide", sans-serif;
+    color: white;
+    text-align: center;
 }
 
 h1{
     color: white;
+    font-size: 50px;
 }
 p{
     color:white;
 }
+
+/* .NMA{
+    color:white;
+} */
+
+/* table{
+    border-color: darkseagreen;
+    border-collapse: separate;
+    text-indent: initial;
+    border-spacing: 10px;
+} */
+
+/* th {
+    display: table-cell;
+    vertical-align: inherit;
+    font-weight: bold;
+    text-align: -internal-center;
+} */
+
+/* tr {
+    border-spacing: 20px;
+} */
+
+
+.NMAhome a:link {
+    color:gold;
+    background-color:cadetblue;
+    padding: 3px 15px;
+    text-align: center;
+    text-decoration: none;
+    display:inline-block;
+}
+.NMAhome a:visited {
+    color:gold;
+    background-color:cadetblue;
+    padding: 3px 15px;
+    text-align: center;
+    text-decoration: none;
+    display:inline-block;
+}
+.NMAhome a:hover {
+    color:coral;
+    background-color:cornflowerblue;
+}
+.NMAhome a:active {color:lightsalmon}
+
+
+
