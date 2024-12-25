@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">My name is Nishat and I'm a fellow from The Knowledge House</p>
+<p align="left">My name is Nishat.</p>
 
 ###
 
